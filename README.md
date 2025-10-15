@@ -1,5 +1,6 @@
 # LangChain Core 学习路线图
 
+
 ## 学习思维导图
 
 ```mermaid
@@ -81,6 +82,32 @@ mindmap
         最佳实践
         性能优化
 ```
+## 目录索引
+
+| 序号 | 索引 | 中文文章名 |
+|------|------|------------|
+| 1 | [1.LangChain_LLM_Guide.md](./1.LangChain_LLM_Guide.md) | LangChain大语言模型指南 |
+| 2 | [2.LangChain_Messages_Comprehensive_Guide.md](./2.LangChain_Messages_Comprehensive_Guide.md) | LangChain消息综合指南 |
+| 3 | [3.LangChain_Prompts_Comprehensive_Guide.md](./3.LangChain_Prompts_Comprehensive_Guide.md) | LangChain提示词综合指南 |
+| 4 | [4.LangChain_Output_Parsers_Comprehensive_Guide.md](./4.LangChain_Output_Parsers_Comprehensive_Guide.md) | LangChain输出解析器综合指南 |
+| 5 | [5.LangChain_Tools_Comprehensive_Guide.md](./5.LangChain_Tools_Comprehensive_Guide.md) | LangChain工具综合指南 |
+| 6 | [6.LangChain_Runnables_Comprehensive_Guide.md](./6.LangChain_Runnables_Comprehensive_Guide.md) | LangChain可运行组件综合指南 |
+| 7 | [7.LangChain_Embeddings_Comprehensive_Guide.md](./7.LangChain_Embeddings_Comprehensive_Guide.md) | LangChain嵌入综合指南 |
+| 8 | [8.LangChain_Document_Loaders_Comprehensive_Guide.md](./8.LangChain_Document_Loaders_Comprehensive_Guide.md) | LangChain文档加载器综合指南 |
+| 9 | [9.LangChain_Vectorstores_Comprehensive_Guide.md](./9.LangChain_Vectorstores_Comprehensive_Guide.md) | LangChain向量存储综合指南 |
+| 10 | [10.LangChain_Memory_Comprehensive_Guide.md](./10.LangChain_Memory_Comprehensive_Guide.md) | LangChain记忆综合指南 |
+| 11 | [11.LangChain_Retrievers_Comprehensive_Guide.md](./11.LangChain_Retrievers_Comprehensive_Guide.md) | LangChain检索器综合指南 |
+| 12 | [12.LangChain_Agents_Comprehensive_Guide.md](./12.LangChain_Agents_Comprehensive_Guide.md) | LangChain智能体综合指南 |
+| 13 | [13.LangChain_Runtime_Monitoring_Comprehensive_Guide.md](./13.LangChain_Runtime_Monitoring_Comprehensive_Guide.md) | LangChain运行时监控综合指南 |
+
+这个学习路线图提供了从基础到高级的完整学习路径，每个阶段都有明确的学习目标和核心文件参考，适合不同水平的学习者循序渐进地掌握LangChain Core。
+
+如果你喜欢我分享的技术内容（比如这次的 LangChain 笔记），欢迎关注我的公众号。 【AI架构之美】
+
+后续会持续更新 AI 实践、编程技巧和学习干货，每一篇都是精心整理的实用内容，期待和你一起成长～
+
+![关注我的公众号](./images/aboutme.png)
+
 
 ## 项目技术架构图
 
@@ -155,13 +182,6 @@ graph TB
     F1 --> C1
 ```
 
-这个学习路线图提供了从基础到高级的完整学习路径，每个阶段都有明确的学习目标和核心文件参考，适合不同水平的学习者循序渐进地掌握LangChain Core。
-
-如果你喜欢我分享的技术内容（比如这次的 LangChain 笔记），欢迎关注我的公众号。 【AI架构之美】
-
-后续会持续更新 AI 实践、编程技巧和学习干货，每一篇都是精心整理的实用内容，期待和你一起成长～
-
-![关注我的公众号](./images/aboutme.png)
 
 
 
